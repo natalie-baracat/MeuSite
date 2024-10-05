@@ -1,0 +1,18 @@
+{
+  "name": "meusite",
+  "version": "1.0.0",
+  "main": "config_e_rotas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon config_e_rotas.js"
+  },
+  "author": "Natalie Baracat",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "express-ejs-layouts": "^2.5.1",
+    "nodemon": "^3.1.7"
+  }
+}
